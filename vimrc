@@ -106,6 +106,7 @@ Plug 'stephpy/vim-php-cs-fixer'
 Plug 'stanangeloff/php.vim'
 Plug 'shawncplus/phpcomplete.vim'
 Plug 'ervandew/supertab'
+Plug 'evidens/vim-twig'
 " Initialize plugin system
 call plug#end()
 
